@@ -22,3 +22,10 @@ This is a console-based Candy Crush game developed in C++ as a first-semester pr
 
 ## Purpose
 This project was created to strengthen C++ fundamentals and logical thinking.
+
+## Screenshots
+
+### Gameplay
+![Gameplay Screenshot 1](screenshots/1(3).png)
+
+![Gameplay Screenshot 2](screenshots/1(2).png)
